@@ -3,8 +3,8 @@ package main
 import (
     "fmt"
     "log"
-
     "example.com/greetings"
+    "golang.org/x/example/hello/reverse"
 )
 
 func main() {
@@ -24,5 +24,5 @@ func main() {
     }
     // If no error was returned, print the returned map of
     // messages to the console.
-    fmt.Println(messages["Samantha"])
+    fmt.Println(reverse.String(messages["Samantha"]), reverse.Int(24601))
 }
