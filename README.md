@@ -58,7 +58,7 @@ go run .
 
 Planning to continue with more Go tutorials from the [official tutorial page](https://go.dev/doc/tutorial/):
 - [x] Getting started with multi-module workspaces
-- [ ] Accessing a relational database
+- [x] Accessing a relational database
 - [ ] Developing a RESTful API with Go and Gin
 - [ ] Getting started with generics
 - [ ] Getting started with fuzzing
