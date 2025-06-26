@@ -4,4 +4,5 @@ use (
 	./cmd/app
 	./example/hello
 	./hello
+	./cmd/web-service-gin
 )
