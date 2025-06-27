@@ -2,7 +2,8 @@ go 1.23.1
 
 use (
 	./cmd/app
-	./example/hello
-	./hello
 	./cmd/web-service-gin
+	./example/hello
+	./generics
+	./hello
 )

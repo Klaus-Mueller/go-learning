@@ -60,7 +60,7 @@ Planning to continue with more Go tutorials from the [official tutorial page](ht
 - [x] Getting started with multi-module workspaces
 - [x] Accessing a relational database
 - [x] Developing a RESTful API with Go and Gin
-- [ ] Getting started with generics
+- [x] Getting started with generics
 - [ ] Getting started with fuzzing
 
 ## Reference
