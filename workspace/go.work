@@ -4,6 +4,7 @@ use (
 	./cmd/app
 	./cmd/web-service-gin
 	./example/hello
+	./fuzz
 	./generics
 	./hello
 )
