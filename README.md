@@ -61,7 +61,7 @@ Planning to continue with more Go tutorials from the [official tutorial page](ht
 - [x] Accessing a relational database
 - [x] Developing a RESTful API with Go and Gin
 - [x] Getting started with generics
-- [ ] Getting started with fuzzing
+- [x] Getting started with fuzzing
 
 ## Reference
 
